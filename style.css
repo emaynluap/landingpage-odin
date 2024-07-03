@@ -19,7 +19,12 @@
     color: #F9FAF8;
 }
 
-.fourth-actioncall {
+.fourth-box {
     background-color: #3882F6;
+    color: white;
+}
+
+.first-button {
+    background-color: #3882F6; 
     color: white;
 }
