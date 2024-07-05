@@ -47,6 +47,11 @@ a {
     color: #F9FAF8;
 }
 
+.first-heroandimage {
+    display: flex;
+    justify-content: space-between;
+}
+
 .fourth-box {
     background-color: #3882F6;
     color: white;
