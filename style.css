@@ -23,6 +23,11 @@ body {
     color: #E5E7EB;
 }
 
+.first-header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .first-headerlogo {
     font-size: 24px;
     color: #F9FAF8;
