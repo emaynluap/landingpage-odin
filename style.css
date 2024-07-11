@@ -56,6 +56,19 @@ a {
     justify-content: space-between;
 }
 
+.second h1 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+}
+
+.second-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
 .fourth-box {
     background-color: #3882F6;
     color: white;
@@ -64,12 +77,6 @@ a {
 button {
     background-color: #3882F6; 
     color: white;
-}
-
-.second h1 {
-    font-size: 36px;
-    font-weight: 900;
-    color: #1F2937;
 }
 
 .third {
