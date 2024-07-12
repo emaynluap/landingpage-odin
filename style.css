@@ -96,3 +96,10 @@ button {
     font-weight: 300;
     color: #1F2937;
 }
+
+.fourth-button {
+    padding: 8px 16px;
+    border: 1px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+}
