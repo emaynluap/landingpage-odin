@@ -88,11 +88,6 @@ a {
     padding-top: 10px;
 }
 
-.fourth-box {
-    background-color: #3882F6;
-    color: white;
-}
-
 button {
     background-color: #3882F6; 
     color: white;
@@ -100,6 +95,10 @@ button {
 
 .third {
     background-color: #E5E7EB;
+    padding-top: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 150px;
 }
 
 .third-text {
@@ -114,4 +113,9 @@ button {
     border: 1px solid white;
     border-radius: 8px;
     cursor: pointer;
+}
+
+.fourth-box {
+    background-color: #3882F6;
+    color: white;
 }
