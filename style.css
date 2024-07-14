@@ -116,6 +116,10 @@ button {
     padding-top: 10px;
 }
 
+.fourth {
+    padding: 80px 160px;
+}
+
 .fourth-button {
     padding: 8px 16px;
     border: 1px solid white;
