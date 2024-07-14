@@ -130,4 +130,9 @@ button {
 .fourth-box {
     background-color: #3882F6;
     color: white;
+    padding: 40px 200px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    flex-wrap: wrap;
 }
