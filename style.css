@@ -112,7 +112,8 @@ button {
     display: flex;
     justify-content: flex-end;
     font-weight: 700;
-    padding-right: 5px;
+    padding-right: 20px;
+    padding-top: 10px;
 }
 
 .fourth-button {
