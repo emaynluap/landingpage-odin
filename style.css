@@ -66,6 +66,8 @@ a {
 .first-heroandimage {
     display: flex;
     justify-content: space-between;
+    padding-right: 150px;
+    padding-left: 150px;
 }
 
 .second h1 {
