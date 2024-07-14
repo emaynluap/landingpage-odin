@@ -83,6 +83,11 @@ a {
     gap: 52px;
 }
 
+.subtext {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
 .fourth-box {
     background-color: #3882F6;
     color: white;
