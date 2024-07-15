@@ -137,7 +137,10 @@ button {
     display: flex;
     justify-content: space-around;
     border-radius: 8px;
-    flex-wrap: wrap;
+}
+
+.fourth-callsignup {
+    margin-right: 15px;
 }
 
 .fourth-actioncall {
