@@ -101,10 +101,7 @@ button {
 
 .third {
     background-color: #E5E7EB;
-    padding-top: 150px;
-    padding-left: 150px;
-    padding-right: 150px;
-    padding-bottom: 150px;
+    padding: 100px 150px;
 }
 
 .third-text {
@@ -123,7 +120,7 @@ button {
 }
 
 .fourth {
-    padding: 80px 160px;
+    padding: 100px 160px;
 }
 
 .fourth-button {
