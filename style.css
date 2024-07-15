@@ -88,6 +88,7 @@ a {
 .subtext {
     padding-bottom: 20px;
     padding-top: 10px;
+    font-weight: 150;
 }
 
 button {
