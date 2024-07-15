@@ -150,3 +150,11 @@ button {
 .fourth-signup {
     font-weight: 200;
 }
+
+div.footer {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 100;
+}
