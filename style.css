@@ -126,6 +126,9 @@ button {
 
 .fourth {
     padding: 100px 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .fourth-button {
